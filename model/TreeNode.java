@@ -1,4 +1,4 @@
-package com.neway.sort.model;
+package com.neway.model;
 
 /**
  * Created by Neway on 2015/10/26.

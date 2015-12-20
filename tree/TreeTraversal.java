@@ -1,7 +1,6 @@
-package com.neway.sort.tree;
+package com.neway.tree;
 
-import com.neway.sort.model.TreeNode;
-import sun.reflect.generics.tree.Tree;
+import com.neway.model.TreeNode;
 
 import java.util.Stack;
 

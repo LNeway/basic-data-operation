@@ -1,4 +1,4 @@
-package com.neway.sort.linearlist;
+package com.neway.linearlist;
 
 import java.util.Stack;
 

@@ -1,6 +1,6 @@
-package com.neway.sort.tree;
+package com.neway.tree;
 
-import com.neway.sort.model.TreeNode;
+import com.neway.model.TreeNode;
 
 /**
  * Created by Neway on 2015/12/5.
